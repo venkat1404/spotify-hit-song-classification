@@ -55,10 +55,8 @@ The implication: how a song is produced matters more than how it makes you feel.
 
 ```
 spotify-hit-song-classification/
-├── data/
-│   └── spotify_songs-1.csv
-├── notebooks/
-│   └── Spotify_Songs_Analysis.ipynb
+├── Spotify_Songs_Analysis.ipynb
+├── spotify_songs-1.csv
 └── README.md
 ```
 
@@ -68,5 +66,5 @@ spotify-hit-song-classification/
 git clone https://github.com/yourusername/spotify-hit-song-classification
 cd spotify-hit-song-classification
 pip install pandas scikit-learn matplotlib
-jupyter notebook notebooks/Spotify_Songs_Analysis.ipynb
+jupyter notebook Spotify_Songs_Analysis.ipynb
 ```
