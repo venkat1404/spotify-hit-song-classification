@@ -56,11 +56,9 @@ The implication: how a song is produced matters more than how it makes you feel.
 ```
 spotify-hit-song-classification/
 ├── data/
-│   └── spotify_songs.csv
+│   └── spotify_songs-1.csv
 ├── notebooks/
 │   └── Spotify_Songs_Analysis.ipynb
-├── presentation/
-│   └── Group_Project_Slides.pptx
 └── README.md
 ```
 
